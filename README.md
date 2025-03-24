@@ -1,7 +1,6 @@
 # 🛒 At Hong Shop
 
 ## 📌 프로젝트 개요
-https://at-hong.shop
 
 Vue.js와 Spring Boot 기반의 **온라인 쇼핑몰**
 
